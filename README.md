@@ -1,0 +1,2 @@
+# Scala-Repo
+Scala Projects
